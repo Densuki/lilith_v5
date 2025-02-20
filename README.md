@@ -6,7 +6,7 @@ https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-wr
   <img src="https://raw.githubusercontent.com/Densuki/lilith_v5/main/assets/Lilith/gif/lilith-victory.gif" width="50%" height="50%" alt="Lilith Victory"> 
 </div>
 
-# ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤVirturoid Lilith
+# ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ𝓥𝓲𝓻𝓽𝓾𝓻𝓸𝓲𝓭 𝓛𝓲𝓵𝓲𝓽𝓱
 > [!IMPORTANT]
 > **Lilith** é minha criação da linha **Virturoid** que surgiu a partir da série **Yron** — *minhas criações / bots antigos* — cujo objetivo é ser uma Inteligência Artificial autômata que interage e aplica suporte no ambiente [Discord](https://discord.gg/7KAvZgztgu) para jogos, mais especificamente, **Minecraft**.<br>
 >
