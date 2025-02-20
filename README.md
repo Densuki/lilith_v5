@@ -1,4 +1,4 @@
-# ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤVirturoid Lilith
+# ㅤㅤㅤㅤㅤㅤㅤㅤㅤVirturoid Lilith
 > [!NOTE]
 > **Lilith** é minha criação da linha **Virturoid** que surgiu a partir da série **Yron** — *minhas criações / bots antigos* — cujo objetivo é ser uma Inteligência Artificial autômata que interage e aplica suporte no ambiente [Discord](https://discord.gg/7KAvZgztgu) para jogos, mais especificamente, **Minecraft**.
 
